@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Impresora
+</name>
+</assembly>
+<members>
+<member name="M:Impresora.Form1.NumeroToTexto(System.Decimal)">
+	<summary>
+ Convierte un número a texto especificando los pesos y centavos
+ </summary>
+	<param name="Num">Número a convertir a texto</param>
+	<returns>String</returns>
+	<remarks></remarks>
+</member><member name="M:Impresora.Form1.NumToTex(System.String)">
+	<summary>
+ Recibe como parametro un numero y devuelve el numero expresado en cadena
+ </summary>
+	<param name="Num">Número a convertir a texto</param>
+	<returns>Cadena</returns>
+	<remarks></remarks>
+</member><member name="P:Impresora.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Impresora.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:Impresora.My.Resources.Resources.Docto_Log">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Impresora.My.Resources.Resources.Logo_Editado">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Impresora.My.Resources.Resources.logo2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Impresora.My.Resources.Resources.logo21">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Impresora.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

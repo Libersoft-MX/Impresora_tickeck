@@ -1,0 +1,10 @@
+Descarga la libreria iTextSharp.dll y descomprímela en esta carpeta
+
+Desde la solución tendrás que agregar una referencia a la librería iTextSharp.dll para poder compilar el código
+
+La librería iTextSharp.dll la puedes descargar desde el siguiente link:
+
+http://sourceforge.net/projects/itextsharp
+
+A fecha de la publicación del tutorial la última versión era la 5.0.6 (3.436 Kb)
+

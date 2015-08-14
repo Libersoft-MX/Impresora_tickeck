@@ -1,0 +1,17 @@
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora\Impresora\bin\Debug\Impresora.exe.config
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\bin\Debug\Impresora.exe.config
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\bin\Debug\Impresora.exe
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\bin\Debug\Impresora.pdb
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\bin\Debug\Impresora.xml
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.Form1.resources
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.Resources.resources
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.vbproj.GenerateResource.Cache
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.exe
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.xml
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.pdb
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.vbprojResolveAssemblyReference.cache
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.Form2.resources
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\bin\Debug\Libersoft.dll
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\bin\Debug\itextsharp.dll
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\bin\Debug\Libersoft.pdb
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\bin\Debug\Libersoft.xml

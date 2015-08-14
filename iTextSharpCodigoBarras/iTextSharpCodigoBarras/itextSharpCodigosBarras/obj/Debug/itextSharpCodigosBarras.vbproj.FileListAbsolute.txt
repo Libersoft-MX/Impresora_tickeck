@@ -1,0 +1,11 @@
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\iTextSharpCodigoBarras\itextSharpCodigosBarras\obj\Debug\itextSharpCodigosBarras.vbprojResolveAssemblyReference.cache
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\iTextSharpCodigoBarras\itextSharpCodigosBarras\obj\Debug\itextSharpCodigosBarras.Form1.resources
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\iTextSharpCodigoBarras\itextSharpCodigosBarras\obj\Debug\itextSharpCodigosBarras.Resources.resources
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\iTextSharpCodigoBarras\itextSharpCodigosBarras\obj\Debug\itextSharpCodigosBarras.vbproj.GenerateResource.Cache
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\iTextSharpCodigoBarras\itextSharpCodigosBarras\bin\Debug\itextSharpCodigosBarras.exe
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\iTextSharpCodigoBarras\itextSharpCodigosBarras\bin\Debug\itextSharpCodigosBarras.pdb
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\iTextSharpCodigoBarras\itextSharpCodigosBarras\bin\Debug\itextSharpCodigosBarras.xml
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\iTextSharpCodigoBarras\itextSharpCodigosBarras\bin\Debug\itextsharp.dll
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\iTextSharpCodigoBarras\itextSharpCodigosBarras\obj\Debug\itextSharpCodigosBarras.exe
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\iTextSharpCodigoBarras\itextSharpCodigosBarras\obj\Debug\itextSharpCodigosBarras.xml
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\iTextSharpCodigoBarras\itextSharpCodigosBarras\obj\Debug\itextSharpCodigosBarras.pdb

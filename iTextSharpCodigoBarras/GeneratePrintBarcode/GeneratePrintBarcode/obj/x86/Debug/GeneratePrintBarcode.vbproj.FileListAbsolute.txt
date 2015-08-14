@@ -1,0 +1,23 @@
+E:\Code Scratcher\Articles\GeneratePrintBarcode\GeneratePrintBarcode\bin\Debug\GeneratePrintBarcode.exe
+E:\Code Scratcher\Articles\GeneratePrintBarcode\GeneratePrintBarcode\bin\Debug\GeneratePrintBarcode.pdb
+E:\Code Scratcher\Articles\GeneratePrintBarcode\GeneratePrintBarcode\bin\Debug\GeneratePrintBarcode.xml
+E:\Code Scratcher\Articles\GeneratePrintBarcode\GeneratePrintBarcode\bin\Debug\GenCode128.dll
+E:\Code Scratcher\Articles\GeneratePrintBarcode\GeneratePrintBarcode\bin\Debug\IDAutomation.LinearBarCode.dll
+E:\Code Scratcher\Articles\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Code Scratcher\Articles\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\GeneratePrintBarcode.Form1.resources
+E:\Code Scratcher\Articles\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\GeneratePrintBarcode.Resources.resources
+E:\Code Scratcher\Articles\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Code Scratcher\Articles\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Code Scratcher\Articles\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\GeneratePrintBarcode.exe
+E:\Code Scratcher\Articles\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\GeneratePrintBarcode.xml
+E:\Code Scratcher\Articles\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\GeneratePrintBarcode.pdb
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\GeneratePrintBarcode.exe
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\GeneratePrintBarcode.xml
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\GeneratePrintBarcode.pdb
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\GeneratePrintBarcode\GeneratePrintBarcode\bin\Debug\GeneratePrintBarcode.exe
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\GeneratePrintBarcode\GeneratePrintBarcode\bin\Debug\GeneratePrintBarcode.pdb
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\GeneratePrintBarcode\GeneratePrintBarcode\bin\Debug\GeneratePrintBarcode.xml
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\GeneratePrintBarcode.vbprojResolveAssemblyReference.cache
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\GeneratePrintBarcode.Form1.resources
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\GeneratePrintBarcode.Resources.resources
+D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\iTextSharpCodigoBarras\GeneratePrintBarcode\GeneratePrintBarcode\obj\x86\Debug\GeneratePrintBarcode.vbproj.GenerateResource.Cache
