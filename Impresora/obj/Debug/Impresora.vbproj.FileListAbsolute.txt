@@ -15,3 +15,19 @@ D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\bin\Debug\Lib
 D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\bin\Debug\itextsharp.dll
 D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\bin\Debug\Libersoft.pdb
 D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\Impresora\bin\Debug\Libersoft.xml
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\bin\Debug\Impresora.exe.config
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.exe
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.xml
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.pdb
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\bin\Debug\Impresora.exe
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\bin\Debug\Impresora.pdb
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\bin\Debug\Impresora.xml
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\bin\Debug\Libersoft.dll
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\bin\Debug\itextsharp.dll
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\bin\Debug\Libersoft.pdb
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\bin\Debug\Libersoft.xml
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.vbprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.Form1.resources
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.Form2.resources
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.Resources.resources
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\Impresora\obj\Debug\Impresora.vbproj.GenerateResource.Cache

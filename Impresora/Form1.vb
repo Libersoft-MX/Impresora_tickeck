@@ -35,7 +35,7 @@ Public Class Form1
 
     Private prn As New RawPrinterHelper
 
-    Private PrinterName As String = "POS58"
+    Private PrinterName As String = "POS-58"
 
     Public Sub StartPrint()
         prn.OpenPrint(PrinterName)

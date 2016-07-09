@@ -1,0 +1,46 @@
+Visual Studio .NET
+==================
+
+Visual Studio .NET es la herramienta definitiva para la rápida
+generación de aplicaciones Web ASP.NET a escala empresarial y 
+aplicaciones de escritorio de alto rendimiento. Visual Studio 
+incluye herramientas de desarrollo basadas en componentes, 
+como Visual C#, Visual J#, Visual Basic y Visual C++, así como 
+diversas tecnologías suplementarias para simplificar el diseño, 
+desarrollo e implementación en equipo de las soluciones.
+
+Visual Studio admite el entorno de Microsoft .NET Framework, 
+que ofrece Common Language Runtime y las clases de programación 
+unificadas; ASP.NET utiliza estos componentes para crear 
+aplicaciones Web ASP.NET y servicios Web XML. También incluye 
+MSDN Library, que contiene toda la documentación de estas 
+herramientas de programación. Para obtener más información, 
+vea Información general de .NET Framework y Programar el Web 
+con servicios Web XML.
+
+Para obtener más información acerca de las características 
+nuevas y mejoradas disponibles en esta versión de Visual Studio, 
+seleccione uno de los vínculos siguientes. Estos vínculos le 
+llevarán a las secciones de este tema.
+
+Visual Studio .NET es la herramienta definitiva para la rápida
+generación de aplicaciones Web ASP.NET a escala empresarial y 
+aplicaciones de escritorio de alto rendimiento. Visual Studio 
+incluye herramientas de desarrollo basadas en componentes, 
+como Visual C#, Visual J#, Visual Basic y Visual C++, así como 
+diversas tecnologías suplementarias para simplificar el diseño, 
+desarrollo e implementación en equipo de las soluciones.
+
+Visual Studio admite el entorno de Microsoft .NET Framework, 
+que ofrece Common Language Runtime y las clases de programación 
+unificadas; ASP.NET utiliza estos componentes para crear 
+aplicaciones Web ASP.NET y servicios Web XML. También incluye 
+MSDN Library, que contiene toda la documentación de estas 
+herramientas de programación. Para obtener más información, 
+vea Información general de .NET Framework y Programar el Web 
+con servicios Web XML.
+
+Para obtener más información acerca de las características 
+nuevas y mejoradas disponibles en esta versión de Visual Studio, 
+seleccione uno de los vínculos siguientes. Estos vínculos le 
+llevarán a las secciones de este tema.

@@ -1,0 +1,9 @@
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\Backup1\bin\PanoramaBox.exe
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\Backup1\bin\PanoramaBox.pdb
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\Backup1\bin\PanoramaBox.xml
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\Backup1\obj\Debug\PanoramaBox.TamañoPapel.resources
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\Backup1\obj\Debug\TamañoPapel.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\Backup1\obj\Debug\PanoramaBox.exe
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\Backup1\obj\Debug\PanoramaBox.xml
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\Backup1\obj\Debug\PanoramaBox.pdb
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\Backup1\bin\PanoramaBox.exe.config

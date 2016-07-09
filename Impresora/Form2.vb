@@ -133,6 +133,9 @@ Public Class Form2
         Ticket.Efectivo = 2000
         Ticket.Tabla = DGV
         Ticket.ImprimirTicket()
+        Ticket.Fecha = "12/08/2016"
+        Ticket.Hora = "09:58:00 p.m."
+        Ticket.
         'DGV.Item(1, 0).Value = "hola"
     End Sub
 End Class

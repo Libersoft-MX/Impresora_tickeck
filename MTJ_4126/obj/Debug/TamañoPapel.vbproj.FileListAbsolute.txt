@@ -6,3 +6,11 @@ D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\MTJ_4126\obj\Debug\Tama
 D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\MTJ_4126\obj\Debug\PanoramaBox.exe
 D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\MTJ_4126\obj\Debug\PanoramaBox.xml
 D:\Mis Archivos\Mis  Documentos\GitHub\Impresora_tickeck\MTJ_4126\obj\Debug\PanoramaBox.pdb
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\obj\Debug\PanoramaBox.exe
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\obj\Debug\PanoramaBox.xml
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\obj\Debug\PanoramaBox.pdb
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\bin\PanoramaBox.exe
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\bin\PanoramaBox.pdb
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\bin\PanoramaBox.xml
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\obj\Debug\PanoramaBox.TamañoPapel.resources
+C:\Users\Daniel\Documents\GitHub\Impresora_tickeck\MTJ_4126\obj\Debug\TamañoPapel.vbproj.GenerateResource.Cache
